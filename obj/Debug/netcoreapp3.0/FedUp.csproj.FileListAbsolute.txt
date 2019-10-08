@@ -1,0 +1,11 @@
+c:\source\codeworks\fall-19\csharp\FedUp\bin\Debug\netcoreapp3.0\FedUp.exe
+C:\source\codeworks\fall-19\csharp\FedUp\bin\Debug\netcoreapp3.0\FedUp.deps.json
+C:\source\codeworks\fall-19\csharp\FedUp\bin\Debug\netcoreapp3.0\FedUp.runtimeconfig.json
+C:\source\codeworks\fall-19\csharp\FedUp\bin\Debug\netcoreapp3.0\FedUp.runtimeconfig.dev.json
+c:\source\codeworks\fall-19\csharp\FedUp\bin\Debug\netcoreapp3.0\FedUp.dll
+c:\source\codeworks\fall-19\csharp\FedUp\bin\Debug\netcoreapp3.0\FedUp.pdb
+c:\source\codeworks\fall-19\csharp\FedUp\obj\Debug\netcoreapp3.0\FedUp.csprojAssemblyReference.cache
+c:\source\codeworks\fall-19\csharp\FedUp\obj\Debug\netcoreapp3.0\FedUp.AssemblyInfoInputs.cache
+c:\source\codeworks\fall-19\csharp\FedUp\obj\Debug\netcoreapp3.0\FedUp.AssemblyInfo.cs
+c:\source\codeworks\fall-19\csharp\FedUp\obj\Debug\netcoreapp3.0\FedUp.dll
+c:\source\codeworks\fall-19\csharp\FedUp\obj\Debug\netcoreapp3.0\FedUp.pdb
